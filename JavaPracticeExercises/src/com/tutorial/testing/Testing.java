@@ -17,7 +17,7 @@ public class Testing {
 		
 		usersName = user_input.next();
 		
-		System.out.println("Hello + " + usersName + "!");
+		System.out.println("Hello " + usersName + "!");
 	}
 
 }
